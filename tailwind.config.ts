@@ -8,8 +8,8 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: "#e9e9e9",
+        secondary: "#222222"
       },
       fontFamily:{
         righteous: ["Righteous", "sans-serif"],
