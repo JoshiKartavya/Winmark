@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='w-full h-screen bg-primary flex flex-col justify-center items-center'>
       <div className="footer-main w-[96%] h-[92%] bg-secondary text-primary rounded-3xl px-4 py-6 xl:px-8 xl:py-10">
         <div className="content flex flex-col justify-start items-center gap-6 md:gap-8 xl:gap-12">
-          <h1 className='text-4xl md:text-6xl xl:text-8xl text-center'>Let's connect to eachother</h1>
+          <h1 className='text-4xl md:text-6xl xl:text-8xl text-center'>Let&apos;s connect to eachother</h1>
           <p className='w-[85%] md:w-[70%] xl:w-[60%] text-lg md:text-2xl xl:text-3xl font-light font-mono text-center'>nkiu4t giug i4ugl4ug 4ohg lubg oeir g;igg4y45y745h498hekubwba;   wiug iaw</p>
           <div className="socials flex flex-col md:flex-row justify-center items-center gap-4 md:gap-6 xl:gap-8 mt-12 md:mt-20 xl:mt-[28rem]">
             <div className="icon flex flex-row items-center gap-2 md:gap-3 xl:gap-4">
