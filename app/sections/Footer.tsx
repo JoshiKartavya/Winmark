@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="content-top">
             <h1 className='text-3xl sm:text-3xl md:text-6xl xl:text-8xl text-center'>Let&apos;s connect to eachother</h1>
             <p className='w-[95%] sm:w-[85%] md:w-[70%] xl:w-[90%] text-sm sm:text-lg md:text-2xl xl:text-3xl font-light font-mono text-center'>
-              Discover our diverse portfolio of innovative projects across multiple sectors. From sustainable agriculture to cutting-edge electrical solutions, we're committed to creating value through technology and expertise.
+              Discover our diverse portfolio of innovative projects across multiple sectors. From sustainable agriculture to cutting-edge electrical solutions, we&apos;re committed to creating value through technology and expertise.
             </p>
           </div>
           <div className="socials flex flex-row justify-center xl:flex-row items-center gap-3 sm:gap-4 md:gap-6 xl:gap-8">
