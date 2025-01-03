@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className="w-full h-[20vh] flex items-center justify-between px-8 md:px-16">
+    <div className="w-full h-[5vh] xl:h-[20vh] flex items-center justify-between px-8 md:px-16">
       <div className="text-3xl md:text-4xl font-righteous text-[#222222]">
         winmark.
       </div>
